@@ -22,3 +22,11 @@ As a leading solution in the digital asset-to-fiat remittance space, NusaPay inc
 
 NusaPay plays a critical role in **expanding the accessibility of digital finance** by offering a robust and modern solution for cross-border payments. It functions as a modular and composable payment layer that other decentralized applications (dApps) or traditional businesses can integrate with—thereby supporting broader financial interoperability and future Web3 ecosystem growth. With this project, we aim to showcase how wallets like MetaMask can become the primary gateway for efficient global payment solutions. Our focus on **decentralization, transparency, and speed, combined with a seamless user experience**, positions NusaPay as a compelling choice for individuals and businesses seeking novel, blockchain-based financial solutions for international transfers.
 
+### Join Us
+
+Whether you are an individual sending money home, or a business managing international payments, NusaPay offers a next-generation financial infrastructure designed for efficiency, security, and composability in cross-border transfers.
+
+By leveraging cutting-edge smart contract automation, **NusaPay enables seamless, trustless, and scalable payment interactions across multiple countries.**
+
+Become part of a growing ecosystem. Start sending and receiving international payments with NusaPay today!
+
