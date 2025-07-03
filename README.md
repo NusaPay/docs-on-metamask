@@ -17,6 +17,7 @@ As a leading solution in the digital asset-to-fiat remittance space, NusaPay inc
 * **Smart Contract Automation**: All core payment functions, including token swaps, burning, and fiat payout orchestration, are executed on-chain via audited smart contracts, ensuring efficiency and reliability.
 * **Trustless & Transparent Execution**: Ensures all protocol functions are executed transparently and verifiably on-chain, eliminating reliance on centralized points of failure.
 * **Comprehensive Transaction History & Reusability**: Maintains a detailed, on-chain transaction history, allowing users to track payments and reuse saved recipient data for future transfers.
+* **Versatile Cross-Chain Infrastructure (via LI.FI Integration):** Leverages the LI.FI SDK/API to facilitate seamless bridging and swapping of assets across a wide range of blockchain networks, enhancing liquidity access and user flexibility for multichain payments.
 
 ### Why NusaPay?
 
