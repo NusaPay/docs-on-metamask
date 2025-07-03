@@ -28,5 +28,3 @@ LI.FI plays a vital role in scenarios beyond direct payroll transfers shown in t
 * **Dynamic Routing**: For general cross-chain transfers or where specific asset-to-asset swaps across chains are needed, LI.FI provides the intelligence to route these transactions efficiently.
 
 By strategically combining specialized solutions like Chainlink CCIP for core flows and general-purpose aggregators like LI.FI for broader interoperability, NusaPay builds a truly robust and adaptable cross-border payment infrastructure.
-
-####

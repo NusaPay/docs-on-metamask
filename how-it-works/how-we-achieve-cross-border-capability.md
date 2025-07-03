@@ -1,6 +1,6 @@
 # How We Achieve Cross-border Capability
 
-<figure><img src="../.gitbook/assets/Desktop - 1.png" alt=""><figcaption><p>NusaPay Cross-border Diagram Flow</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/diagram nusapay bg gradient.png" alt=""><figcaption><p>NusaPay Cross-border Diagram Flow</p></figcaption></figure>
 
 We achieve seamless cross-border capability by intelligently managing the movement of value from the user's Web3 wallet to various blockchains up to the final settlement in local fiat currency. This is a multi-stage process that is fully transparent and optimized for efficiency. Our robust cross-chain infrastructure leverages technologies like Chainlink CCIP for specific high-assurance transfers (as illustrated by the automated payroll flow), and integrates the LI.FI SDK/API for broader asset bridging and routing across diverse networks.
 
