@@ -8,4 +8,4 @@
 
 ## HOW IT WORKS
 
-* [Page 1](how-it-works/page-1.md)
+* [How We Achieve Cross-border Capability](how-it-works/how-we-achieve-cross-border-capability.md)
